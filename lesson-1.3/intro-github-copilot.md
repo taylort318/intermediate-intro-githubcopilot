@@ -1,3 +1,5 @@
+<!-- 💡 Tip for viewing this file: To see this markdown file in a nicely formatted preview mode in VS Code, press Ctrl+Shift+V. You can also right-click on the file tab and select "Open Preview" or use the Command Palette (Ctrl+Shift+P) and search for "Markdown: Open Preview". -->
+
 # Introduction to GitHub Copilot
 
 Microsoft developed GitHub Copilot in collaboration with OpenAI. GitHub Copilot is powered by the OpenAI Codex system. OpenAI Codex has broad knowledge of how people use code and is more capable than GPT-3 in code generation. OpenAI Codex is more capable, in part, because it was trained on a dataset that included a larger concentration of public source code.

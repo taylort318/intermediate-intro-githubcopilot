@@ -1,3 +1,5 @@
+<!-- 💡 Tip for viewing this file: To see this markdown file in a nicely formatted preview mode in VS Code, press Ctrl+Shift+V. You can also right-click on the file tab and select "Open Preview" or use the Command Palette (Ctrl+Shift+P) and search for "Markdown: Open Preview". -->
+
 ## Codespaces
 
 **GitHub Codespaces** is a fully configured development environment hosted in the cloud. By using GitHub Codespaces, your workspace, along with all of your configured development environments, is available from any computer with access to the internet.

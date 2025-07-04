@@ -1,3 +1,5 @@
+<!-- 💡 Tip for viewing this file: To see this markdown file in a nicely formatted preview mode in VS Code, press Ctrl+Shift+V. You can also right-click on the file tab and select "Open Preview" or use the Command Palette (Ctrl+Shift+P) and search for "Markdown: Open Preview". -->
+
 # How Did We Get Generative AI
 
 Generative AI represents decades of research dating back to the 1960s, evolving from simple typewritten chatbots that relied on keyword-triggered responses from expert knowledge bases. These early systems quickly proved inadequate due to their limited scalability and inability to handle complex language understanding.

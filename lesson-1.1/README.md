@@ -1,3 +1,5 @@
+<!-- 💡 Tip for viewing this file: To see this markdown file in a nicely formatted preview mode in VS Code, press Ctrl+Shift+V. You can also right-click on the file tab and select "Open Preview" or use the Command Palette (Ctrl+Shift+P) and search for "Markdown: Open Preview". -->
+
 # Lesson 1.1 - Introduction to GitHub
 
 ## 🎯 Learning Objectives
@@ -6,7 +8,7 @@
 - Learn about Open Source Community
 - Create your GitHub Profile ReadMe
 
-## :pushpin: Lesson Overview [10 minutes]
+## 📌 Lesson Overview [10 minutes]
 - [What is GitHub](../lesson-1.1/what-is-github.md)
 - [GitHub Flow](../lesson-1.1/github-flow.md)
 
@@ -26,7 +28,7 @@
 - Commit -  A commit is a set of changes to the files and folders in your project.
 - Pull Request - Collaboration happens on a pull request. The pull request shows the changes in your branch to other people and allows people to accept, reject, or suggest additional changes to your branch. Once accepted, changes are merged to main branch.
 
-## :books: Additional Resources
+## 📚 Additional Resources
 Here are some additional resources to help you along the way.
 
 - [GitHub Repositories](https://docs.github.com/en/repositories)

@@ -5,7 +5,7 @@
 - Craft prompts that can generate useful suggestions from GitHub Copilot.
 - Use GitHub Copilot to design, build, and test a Python web application.
 
-## :pushpin: Lesson Overview [5 minutes]
+## 📌 Lesson Overview [5 minutes]
 - [Introduction to GitHub Copilot](../lesson-1.3/intro-github-copilot.md)
 - [AI in Software Development Lifecycle](../lesson-1.3/ai-in-sdlc.md)
 
@@ -20,6 +20,6 @@
 
 ## 📑Key Terms
 
-## :books: Additional Resources
+## 📚 Additional Resources
 Here are some additional resources to help you along the way.
 - [GitHub Copilot Docs](https://docs.github.com/en/copilot)
