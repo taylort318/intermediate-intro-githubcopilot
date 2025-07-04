@@ -13,9 +13,8 @@
 
 ## ✔️ Activities[50 minutes]
 
-- [Get Started with GitHub Copilot](https://github.com/skills/getting-started-with-github-copilot)
-- [Build fully functional website)](/lesson-1.3/tutor-signup/README.md)
-- Complete assessment to earn your Introduction to Copilot and Using GitHub Copilot with Python Badge
+- [Build fully functional website](/lesson-1.3/tutor-signup/README.md)
+- [Don't forget to Complete Milestone 3 assessment to earn your Introduction to generative AI concepts Badge](https://learn.microsoft.com/en-us/plans/dk77t1toywz6j5?sharingId=F67AE3DA365A6582)
 
 
 ** To get started, fork this repo if you haven't already.

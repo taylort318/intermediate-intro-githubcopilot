@@ -1,5 +1,3 @@
-<!-- 💡 Tip for viewing this file: To see this markdown file in a nicely formatted preview mode in VS Code, press Ctrl+Shift+V. You can also right-click on the file tab and select "Open Preview" or use the Command Palette (Ctrl+Shift+P) and search for "Markdown: Open Preview". -->
-
 # Build a Website Using GitHub Copilot
 In this exercise, you'll use GitHub Copilot to create a basic webpage! We want to create a website that allows students to signup for additional coaching for our program. A few requirements we were given:Build a Website Using GitHub Copilot
 In this exercise, you’ll use GitHub Copilot to create a basic webpage! We want to create a website that allows students to signup for additional coaching for our program. A few requirements we were given:
@@ -14,20 +12,30 @@ In this exercise, you’ll use GitHub Copilot to create a basic webpage! We want
     - If you want to learn how people create wireframes of websites, check out this article by [Skillcrush: Website Wireframe 101](https://skillcrush.com/blog/website-wireframe/)
 
 
-2. Next, you’ll need to sketch your webpage. There are different ways to do this, here are some options:
-    - Draw your webpage on a piece of paper and then take a picture of it.
-    - Draw your webpage on a phone or tablet if you have access to either and can download a drawing app.
-    - You can use wireframe tools like [Wireframe(]https://wireframe.cc/) or [Balsamiq](https://balsamiq.cloud/#)
-    - Don't spend too much time trying to make your sketch perfect, the idea is to truly have a quick sketch.
-    - Upload your sketch.   In your Codespaces, right-click on lesson 1.3 folder, select Upload to upload your folder
+2. Next, you'll need to sketch your webpage. There are different ways to do this, here are some options:
+    - **Pen and Paper**: Draw your webpage on a piece of paper and take a picture with your phone
+    - **Phone/Tablet Drawing**: Use a free drawing app like:
+      - Notes app (iPhone/iPad) - Just use your finger to draw!
+      - Google Keep (Android) - Has a drawing feature built in
+    - **Simple Online Tools** (no signup required):
+      - [Excalidraw](https://excalidraw.com/) - Free, no login needed, just start drawing!
+      - [Draw.io](https://app.diagrams.net/) - Drag and drop shapes to create your layout
+    - **Remember**: This is just a rough sketch! Think of it like drawing a blueprint - it doesn't need to be pretty, just show where things go
+    - **Upload your sketch**: Once you have your drawing, save it as an image (like .png or .jpg). Then in your Codespace, right-click on the `lesson-1.3/tutor-signup` folder and select "Upload..." to add your sketch file
 
 3.  Create your UI in Home.html
-    - Think about a prompt to generate code from your sketch.
-    - Continue to refine until you get your initial sketch.
+    - Open GitHub Copilot Chat using one of these methods:
+      - Press Ctrl+I on your keyboard
+      - Look for the Copilot icon in the activity bar
+      - Click "View" in the top menu, then find "Chat"
+    - Add your sketch to the chat by clicking the paperclip icon and selecting your uploaded image
+    - Write a prompt like: "Based on this sketch, create HTML code for a tutoring signup form with [describe your layout]"
+    - Copy the generated code into your Home.html file
+    - Continue to refine until you get your initial design working
 
 4.  If you noticed, maybe Copilot created everything in the home.html page.  
     - How can you make it better by creating some of the button click or other logic in python?
     - Continue to iterate on the design.  What additional functionality could you add to make it better?
     - What other things should you consider?
 
-**When you are done, make sure to check-in code to your repository.(Hint - maybe Copilot could help you!)**
+**When you are done, make sure to check-in code to your repository. (Hint - maybe Copilot could help you!)**
