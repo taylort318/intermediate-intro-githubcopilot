@@ -1,4 +1,7 @@
+<!-- 💡 Tip for viewing this file: To see this markdown file in a nicely formatted preview mode in VS Code, press Ctrl+Shift+V. You can also right-click on the file tab and select "Open Preview" or use the Command Palette (Ctrl+Shift+P) and search for "Markdown: Open Preview". -->
+
 # Build a Website Using GitHub Copilot
+In this exercise, you'll use GitHub Copilot to create a basic webpage! We want to create a website that allows students to signup for additional coaching for our program. A few requirements we were given:Build a Website Using GitHub Copilot
 In this exercise, you’ll use GitHub Copilot to create a basic webpage! We want to create a website that allows students to signup for additional coaching for our program. A few requirements we were given:
 
 - Students should enter their basic information(Name, Email, etc.)

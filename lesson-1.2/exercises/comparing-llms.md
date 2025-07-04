@@ -1,3 +1,5 @@
+<!-- 💡 Tip for viewing this file: To see this markdown file in a nicely formatted preview mode in VS Code, press Ctrl+Shift+V. You can also right-click on the file tab and select "Open Preview" or use the Command Palette (Ctrl+Shift+P) and search for "Markdown: Open Preview". -->
+
 # Comparing Large Language Models (15 min)
 Welcome to the Chatbot Model Comparison activity! Here, you will compare the output of three different chatbot models. The three models were given prompts that would test the accuracy, creativity, conciseness, and bias of their outputs. Your job is to select the model that performed best in each category. Let's get started!
 
