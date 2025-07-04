@@ -12,13 +12,13 @@
 - [What is GitHub](../lesson-1.1/what-is-github.md)
 - [GitHub Flow](../lesson-1.1/github-flow.md)
 
-## ✔️ Activities[45 minutes]
+## ✔️ Activities [45 minutes]
 
 - [Create your GitHub Account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
 - [Complete the Introduction to GitHub Exercise](https://github.com/skills/introduction-to-github)
 - [Communicate Using Markdown(if not familiar with Markdown)](https://github.com/skills/communicate-using-markdown)
 - [Create your GitHub Profile](https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile)
-- Complete assessment to earn your Intro to GitHub Badge
+- [Don't forget to Complete Milestone 1 assessment to earn your Introduction to generative AI concepts Badge](https://learn.microsoft.com/en-us/plans/dk77t1toywz6j5?sharingId=F67AE3DA365A6582)
 
 
 ## 📑Key Terms
