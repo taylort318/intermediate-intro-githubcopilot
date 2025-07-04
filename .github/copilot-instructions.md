@@ -1,5 +1,15 @@
 # GitHub Copilot Instructions for BAM Summer Mentorship Program
 
+## Important Note on Student Devices
+
+**All students will be using Windows machines.**
+
+- When providing instructions, code, or keyboard shortcuts, always ensure they are applicable to Windows systems or to GitHub Codespaces accessed with a Windows keyboard layout.
+- Avoid recommending Mac-specific commands, shortcuts, or tools unless they are also valid on Windows.
+- If suggesting terminal commands, use Windows Command Prompt, PowerShell, or Windows-compatible instructions, or specify if the command is for Codespaces.
+- For Codespaces, assume students are using a Windows keyboard and highlight any differences in shortcuts or behavior if relevant.
+
+
 ## Workspace Structure
 This repository contains materials for the "Hello World - Launching Into AI and Code" program, which is organized as a week-long curriculum with daily lessons:
 
@@ -37,6 +47,13 @@ This repository contains materials for the "Hello World - Launching Into AI and 
 5. For lesson-1.2: Focus on understanding AI concepts and prompt engineering
 6. For lesson-1.3: Focus on applying GitHub Copilot to build a Python web application
 7. Keep explanations beginner-friendly and connect concepts to the day's learning objectives
+
+## Windows Device Guidance
+
+- All technical recommendations, troubleshooting steps, and keyboard shortcuts should be tailored for Windows users.
+- If a step differs between Windows and other operating systems, provide the Windows version first and clearly indicate any differences for Codespaces.
+- When referencing file paths, use Windows-style paths (e.g., `C:\Users\...`) unless working in Codespaces, where Linux-style paths may apply.
+
 
 ## Project Context
 This repository is part of the Blacks at Microsoft (BAM) Summer Mentorship Program, designed to introduce students to coding and AI concepts through hands-on projects and GitHub Copilot assistance.
