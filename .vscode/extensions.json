@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "GitHub.copilot",
+    "ms-python.python",
+    "ms-vscode.live-server",
+    "vscode-icons-team.vscode-icons",
+    "GitHub.copilot-chat",
+    "ms-python.vscode-pylance"
+  ]
+}
