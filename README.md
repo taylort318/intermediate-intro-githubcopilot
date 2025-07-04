@@ -1,27 +1,29 @@
 
-# :rocket: Hello World - Launching Into AI and Code
+# 🚀 Hello World - Launching Into AI and Code
 
-## :notebook_with_decorative_cover: Week One Overview
+## 📔 Week One Overview
 Welcome to your first week of the program! This week is all about launching your journey into the world of coding and artificial intelligence.  You'll start by learning GitHub – the platform where millions of developers store, share, and collaborate on code. Think of it as your professional portfolio where you'll create a profile that showcases your growing skills and projects. You'll also dive into the world of Generative AI and discover how tools like GitHub Copilot can assist you in writing code more efficiently. By understanding prompt engineering and AI collaboration, you'll learn to communicate effectively with these powerful tools. By the end of the week, you'll have hands-on experience with version control, a polished GitHub presence, and your first taste of AI-assisted programming. Welcome to the intersection of software development and cutting-edge technology.
 
-## :white_check_mark: Prerequisites
-- Some basic Python programming will be required.  If you need a refresher on syntax, here is a [good resource](https://www.w3schools.com/python/python_getstarted.asp).
+- No previous coding experience required! We'll be using AI tools like GitHub Copilot to help you learn programming concepts and write code together. If you're curious to explore Python programming further, check out these resources:
+    - [Introduction to Python Development on Microsoft Learn](https://learn.microsoft.com/en-us/shows/intro-to-python-development/)
+    - [Intro to Python Course on VS Code Edu](https://vscodeedu.com/courses/intro-to-python)
+    - Or simply work with GitHub Copilot as your AI programming partner to learn Python interactively!
 - A Microsoft Learn Account.  Sign into [Microsoft Learn](https://aka.ms/learn) with your personal email address(not BAM) and select "student" as the role in your profile. You can now begin tracking progress on learning activities, sharing your progress, accruing points and achievements, using free Azure resources, and getting personalized recommendations.
 
-## :toolbox: Tools You'll Use
+## 🧰 Tools You'll Use
 For this week, we'll use the GitHub suite of tools for collaboration.
 - GitHub Repositories - A repository is the most basic element of GitHub. It's a place where you can store your code, your files, and each file's revision history. Repositories can have multiple collaborators and can be either public or private.
 - GitHub Codespaces - a cloud-based development environments where you'll build, write, and run your code in the browser.
 - GitHub Copilot - an AI coding assistant that helps you write code faster and with less effort, allowing you to focus more energy on problem solving and collaboration.
 
-## :dart: What You'll Master
+## 🎯 What You'll Master
 - Master GitHub Fundamentals: Understand GitHub's core features, repository management, and open source collaboration.
 - Create your GitHub Profile ReadMe that serves as your professional digital presence, showcasing your skills, projects, and coding journey to potential colleges, employers, collaborators, and the broader tech community. 
 - Understand Generative AI and Language Models - Learn how AI works in modern applications, how language models process and generate text, master prompt engineering techniques, and explore responsible AI practices including ethical considerations, bias mitigation, and safe AI deployment.
 - Apply AI-Assisted Programming - Combine GitHub, AI understanding, and Copilot skills as part of the Software Development Lifecycle using AI assistance.
 
 
-## :pushpin:  Lesson Plan
+## 📌 Lesson Plan
 
 |Lesson |Objectives | Lab Exercise | Assessment/Badges
 | ----------- | ----------- | ----------- | ----------- |
@@ -35,7 +37,7 @@ The main materials for this unit will be stored on Microsoft Learn Course called
 At the end of each lesson, you will need to complete the assessment to earn credit and receive badges. Badges can be shared on socials. Badges can put you on track to obtaining official Microsoft Certifications that can even help with College Credit!
 ![lesson completion](/media/lesson-completion.png)
 
-## :books: Additional Resources
+## 📚 Additional Resources
 Here are some additional resources to help you along the way.
 
 - [GitHub Repositories](https://docs.github.com/en/repositories)
