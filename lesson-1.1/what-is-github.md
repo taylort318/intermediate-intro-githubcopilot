@@ -5,12 +5,7 @@
 
 ![logo](https://github.githubassets.com/assets/blacktocats-starting-the-trend-1c51f09a9129.webp)
 
-### What is GitHub?
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pBy1zgt0XPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-[Watch on YouTube](https://www.youtube.com/watch?v=pBy1zgt0XPc)
-
+[![What is Github?](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
 **GitHub** is a cloud-based platform that uses Git, a distributed version control system, at its core. The GitHub platform simplifies the process of collaborating on projects and provides a website, command-line tools, and overall flow that allows developers and users to work together.
 
