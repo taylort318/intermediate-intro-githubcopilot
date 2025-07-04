@@ -61,7 +61,7 @@ Let’s tackle creating a repository from github.com.
 
 1. In the upper-right corner of any page, use the drop-down menu, and select **New repository**.
 
-    :::image type="content" source="../media/2-new-repo-option.png" alt-text="A screenshot of the drop-down menu of the plus sign in the top right corner of GitHub.com, with the first option being New repository." border="false":::
+    ![A screenshot of the drop-down menu of the plus sign in the top right corner of GitHub.com, with the first option being New repository.](../media/2-new-repo-option.png)
 
 1. Use the **Owner** drop-down menu to select the account you want to own the repository.
 
