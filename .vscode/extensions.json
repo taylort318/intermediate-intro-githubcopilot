@@ -4,6 +4,7 @@
     "ms-python.python",
     "vscode-icons-team.vscode-icons",
     "GitHub.copilot-chat",
-    "ms-python.vscode-pylance"
+    "ms-python.vscode-pylance",
+    "vsls-contrib.codetour",
   ]
 }
