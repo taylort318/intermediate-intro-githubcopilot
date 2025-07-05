@@ -13,13 +13,16 @@
 
 ## ✔️ Activities[40 minutes]
 
-- [Build a minigame with GitHub Copilot and Python](exercises/README.md)
+- [Build a minigame with GitHub Copilot and Python](https://learn.microsoft.com/en-us/training/modules/challenge-project-create-mini-game-with-copilot/?sharingId=F67AE3DA365A6582)
 - [Copilot Chat Getting Started](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/?sharingId=F67AE3DA365A6582&ns-enrollment-type=Collection&ns-enrollment-id=6pggu7t4ymkxy0)
 - [Don't forget to Complete Milestone 2 assessment to earn your Introduction to generative AI concepts Badge](https://learn.microsoft.com/en-us/plans/dk77t1toywz6j5?sharingId=F67AE3DA365A6582)
 
 **Let's Get Started** - Fork this repo to get started on activities
 
-## 📑Key Terms
+## 📑Additional Challengs
+
+- [Install VS Code Locally](local-install.md)
+- [Additional Challenges](AdditionalChallenge.md)
 
 ## 📚 Additional Resources
 - [What is Generative AI](../lesson-1.2/AdditionalResources/what-is-generative-ai.md)

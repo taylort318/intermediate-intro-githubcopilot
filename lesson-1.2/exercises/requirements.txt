@@ -1,8 +1,0 @@
-pillow
-streamlit
-pandas
-requests
-matplotlib
-numpy
-watchdog
-pygame
