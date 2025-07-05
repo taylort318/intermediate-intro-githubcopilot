@@ -13,7 +13,7 @@
 
 ## ✔️ Activities[40 minutes]
 
-- [Build a minigame with GitHub Copilot and Python](https://learn.microsoft.com/en-us/training/modules/challenge-project-create-mini-game-with-copilot/?sharingId=F67AE3DA365A6582)
+- [Build a minigame with GitHub Copilot and Python](exercises/README.md)
 - [Copilot Chat Getting Started](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/?sharingId=F67AE3DA365A6582&ns-enrollment-type=Collection&ns-enrollment-id=6pggu7t4ymkxy0)
 - [Don't forget to Complete Milestone 2 assessment to earn your Introduction to generative AI concepts Badge](https://learn.microsoft.com/en-us/plans/dk77t1toywz6j5?sharingId=F67AE3DA365A6582)
 
@@ -22,9 +22,9 @@
 ## 📑Key Terms
 
 ## 📚 Additional Resources
-- [What is Generative AI](../lesson-1.2/what-is-generative-ai.md)
-- [Large Language Models](../lesson-1.2/use-llm.md)
-- [Writing Prompts](../lesson-1.2/writing-prompts.md)
-- [Responsible AI](../lesson-1.2/responsible-ai.md)
+- [What is Generative AI](../lesson-1.2/AdditionalResources/what-is-generative-ai.md)
+- [Large Language Models](../lesson-1.2/AdditionalResources/use-llm.md)
+- [Writing Prompts](../lesson-1.2/AdditionalResources/writing-prompts.md)
+- [Responsible AI](../lesson-1.2/AdditionalResources/responsible-ai.md)
 - [Generative AI for Beginners Course](https://microsoft.github.io/generative-ai-for-beginners/)
 

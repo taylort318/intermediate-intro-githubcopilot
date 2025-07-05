@@ -17,4 +17,4 @@ Most of the recent generative AI models – also known as Large Language Models 
 
 ![Generative AI History](../media/AI-diagram.png)
 
-Now let's look in depth at [Large Language Models](../lesson-1.2/use-llm.md).
+Now let's look in depth at [Large Language Models](use-llm.md).

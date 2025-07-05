@@ -35,4 +35,4 @@ def add_numbers(a, b):
 
 ```
 
-Next - [let's understand how we got to Generative AI](../lesson-1.2/generative-ai-evolution.md). 
+Next - [let's understand how we got to Generative AI](generative-ai-evolution.md). 

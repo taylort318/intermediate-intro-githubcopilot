@@ -59,4 +59,4 @@ The term *prompt engineering* describes the process of prompt improvement. Both 
 
 
 ## Exercise 
-[Comparing Prompts and LLMs](../lesson-1.2/exercises/comparing-llms.md)
+[Comparing Prompts and LLMs](comparing-llms.md)

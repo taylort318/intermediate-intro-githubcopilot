@@ -44,4 +44,4 @@ In general, language models can be considered in two categories: *Large Language
 |Fine-tuning the model with more data to customize its subject expertise can be time-consuming, and expensive in terms of the compute power required to perform the extra training.|Fine-tuning can potentially be less time-consuming and expensive.|
 
 ## Exercise 
-[Learn more about Tokenization](../lesson-1.2/exercises/tokenization.md)
+[Learn more about Tokenization](tokenization.md)
