@@ -3,7 +3,8 @@
 # GitHub - Where Code Comes to Life 🚀
 
 [![What is Github?](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/watch?v=pBy1zgt0XPc)
-*Check out the video above to see GitHub in action!*
+
+*Click the video above to see GitHub in action!*
 
 **GitHub** is where coding meets collaboration. Think of it as a social platform, but for code instead of selfies! It's the place where millions of developers store their projects, work together, and share their programming creations with the world.
 
