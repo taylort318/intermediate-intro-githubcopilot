@@ -28,6 +28,5 @@
 - [What is Generative AI](../lesson-1.2/AdditionalResources/what-is-generative-ai.md)
 - [Large Language Models](../lesson-1.2/AdditionalResources/use-llm.md)
 - [Writing Prompts](../lesson-1.2/AdditionalResources/writing-prompts.md)
-- [Responsible AI](../lesson-1.2/AdditionalResources/responsible-ai.md)
 - [Generative AI for Beginners Course](https://microsoft.github.io/generative-ai-for-beginners/)
 
