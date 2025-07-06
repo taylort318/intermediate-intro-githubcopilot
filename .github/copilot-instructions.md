@@ -21,7 +21,7 @@ This repository contains materials for the "Hello World - Launching Into AI and 
 - `lesson-1.2/`: Day 2 - Introduction to Generative AI, Prompt Engineering, and Responsible AI
   - Focus: Understanding generative AI, language models, prompt engineering techniques
   - Topics: AI evolution, responsible AI practices, using LLMs effectively
-  - Key files: `AdditionalResources/generative-ai-evolution.md`, `AdditionalResources/responsible-ai.md`, `AdditionalResources/use-llm.md`, `AdditionalResources/what-is-generative-ai.md`, `AdditionalResources/writing-prompts.md`
+  - Key files: `AdditionalResources/generative-ai-evolution.md`, `AdditionalResources/use-llm.md`, `AdditionalResources/what-is-generative-ai.md`, `AdditionalResources/writing-prompts.md`
   - Exercises: Bias in AI, comparing LLMs, tokenization
 
 - `lesson-1.3/`: Day 3 - Pair Programming with GitHub Copilot

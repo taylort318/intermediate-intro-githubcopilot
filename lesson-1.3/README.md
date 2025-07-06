@@ -8,7 +8,6 @@
 - Use GitHub Copilot to design, build, and test a Python web application.
 
 ## 📌 Lesson Overview [5 minutes]
-- [Introduction to GitHub Copilot](../lesson-1.3/intro-github-copilot.md)
 - [AI in Software Development Lifecycle](../lesson-1.3/ai-in-sdlc.md)
 
 ## ✔️ Activities[50 minutes]
