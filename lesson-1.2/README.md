@@ -2,6 +2,7 @@
 
 # Lesson 1.2 - Intro to Generative AI, GitHub Copilot
 
+[Click here for the full program overview](https://bsmp-coders.github.io/#/2025/intermediate/lesson_summary)
 
 [![What is Github?](https://img.youtube.com/vi/LAF-lACf2QY/0.jpg)](https://www.youtube.com/watch?v=LAF-lACf2QY)
 

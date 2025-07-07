@@ -1,4 +1,7 @@
-# Build a Website Using GitHub Copilot
+# Lessson 1.3 Build a Website Using GitHub Copilot
+
+[Click here for the full program overview](https://bsmp-coders.github.io/#/2025/intermediate/lesson_summary)
+
 In this exercise, you'll use GitHub Copilot to create a basic webpage! We want to create a website that allows students to signup for additional coaching for our program. A few requirements we were given:Build a Website Using GitHub Copilot
 In this exercise, you’ll use GitHub Copilot to create a basic webpage! We want to create a website that allows students to signup for additional coaching for our program. A few requirements we were given:
 
@@ -39,3 +42,5 @@ In this exercise, you’ll use GitHub Copilot to create a basic webpage! We want
     - What other things should you consider?
 
 **When you are done, make sure to check-in code to your repository. (Hint - maybe Copilot could help you!)**
+
+[Click here for the full program overview](https://bsmp-coders.github.io/#/2025/intermediate/lesson_summary)

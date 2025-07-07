@@ -2,6 +2,8 @@
 
 # Lesson 1.1 - Introduction to GitHub
 
+[Click here for the full program overview](https://bsmp-coders.github.io/#/2025/intermediate/lesson_summary)
+
 ## 🎯 Learning Objectives
 - Identify the fundamental features of GitHub.
 - Learn about code repository management
