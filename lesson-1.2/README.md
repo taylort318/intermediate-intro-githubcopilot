@@ -22,6 +22,7 @@
   - [Help file for working through Rock Paper Scissors](RockPaperScissors.md)
 - [Copilot Chat Getting Started](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/?sharingId=F67AE3DA365A6582&ns-enrollment-type=Collection&ns-enrollment-id=6pggu7t4ymkxy0)
 - [Don't forget to Complete Milestone 2 assessment to earn your Introduction to generative AI concepts Badge](https://learn.microsoft.com/en-us/plans/4m55uxtr48171m?sharingId=F67AE3DA365A6582) - Make sure to login with your personal email not your BAM account.
+- [Apply for your GitHub Student Developer Pack](https://education.github.com/pack)
 
 **Let's Get Started** - Fork this repo to get started on activities
 
