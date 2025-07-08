@@ -13,7 +13,7 @@
 ## ✔️ Activities[50 minutes]
 
 - [Build fully functional website](/lesson-1.3/tutor-signup/README.md)
-- [Don't forget to Complete Milestone 3 assessment to earn your Introduction to generative AI concepts Badge](https://learn.microsoft.com/en-us/plans/4m55uxtr48171m?sharingId=F67AE3DA365A6582)
+- [Don't forget to Complete Milestone 3 assessment to earn your Introduction to generative AI concepts Badge](https://learn.microsoft.com/en-us/plans/4m55uxtr48171m?sharingId=F67AE3DA365A6582) - Make sure to login with your personal email not your BAM account.
 
 
 ** To get started, fork this repo if you haven't already.

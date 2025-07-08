@@ -20,7 +20,7 @@
 - [Complete the Introduction to GitHub Exercise](https://github.com/skills/introduction-to-github)
 - [Communicate Using Markdown(if not familiar with Markdown)](https://github.com/skills/communicate-using-markdown)
 - [Create your GitHub Profile](https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile)
-- [Don't forget to Complete Milestone 1 assessment to earn your Introduction to generative AI concepts Badge](https://learn.microsoft.com/en-us/plans/4m55uxtr48171m?sharingId=F67AE3DA365A6582)
+- [Don't forget to Complete Milestone 1 assessment to earn your Introduction to generative AI concepts Badge](https://learn.microsoft.com/en-us/plans/4m55uxtr48171m?sharingId=F67AE3DA365A6582) - Make sure to login with your personal email not your BAM account.
 
 
 ## 📑Key Terms
