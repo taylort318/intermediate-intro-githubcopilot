@@ -12,6 +12,10 @@
 - Understand how language models can understand and generate language.
 - Learn about prompt engineering and how you can engineer good prompts and quality responses.
 
+## ✔️ Activities[10 minutes]
+- Recap previous lesson
+- Review codespaces
+
 ## ✔️ Activities[40 minutes]
 
 - [Build a minigame with GitHub Copilot and Python](https://learn.microsoft.com/en-us/training/modules/challenge-project-create-mini-game-with-copilot/?sharingId=F67AE3DA365A6582)
