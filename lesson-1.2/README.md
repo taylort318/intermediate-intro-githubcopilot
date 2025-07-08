@@ -14,7 +14,6 @@
 
 ## ✔️ Activities[10 minutes]
 - Recap previous lesson
-- Review codespaces
 
 ## ✔️ Activities[40 minutes]
 
