@@ -34,4 +34,5 @@
 - [Large Language Models](../lesson-1.2/AdditionalResources/use-llm.md)
 - [Writing Prompts](../lesson-1.2/AdditionalResources/writing-prompts.md)
 - [Generative AI for Beginners Course](https://microsoft.github.io/generative-ai-for-beginners/)
+- [Comparing Large Language Models](../lesson-1.2/AdditionalResources/comparing-llms.md)
 
