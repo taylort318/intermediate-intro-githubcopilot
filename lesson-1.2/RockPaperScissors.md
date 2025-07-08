@@ -9,11 +9,6 @@ This demonstration shows students how to use **comments** to communicate with Gi
 - Experience the power of AI-assisted coding
 - Build a complete Rock Paper Scissors game using Copilot suggestions
 
-## Prerequisites
-- GitHub Copilot extension installed in VS Code
-- Basic understanding of Python syntax (covered in previous lessons)
-- Students should be working on Windows machines or GitHub Codespaces
-
 ## Instructions: Building Rock Paper Scissors with GitHub Copilot
 
 ### Step 1: Open the Python File
@@ -273,6 +268,13 @@ After completing the game, reflect on these questions:
 2. What makes a good comment for AI assistance?
 3. When might you need to edit Copilot's suggestions?
 4. How can this tool help you learn programming?
+
+### Prompting Technique Reflection:
+5. **Zero-Shot**: Which comments worked well without providing examples? Why?
+6. **One-Shot**: When did providing a single example help Copilot generate better code?
+7. **Few-Shot**: How did giving multiple examples improve the AI's understanding?
+8. **Prompt Chaining**: How did breaking complex tasks into steps help build the complete program?
+9. Which prompting technique do you think works best for different types of coding tasks?
 
 ## Next Steps
 
