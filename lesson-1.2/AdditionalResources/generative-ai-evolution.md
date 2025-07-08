@@ -15,6 +15,6 @@ After decades of research in the AI field, a new model architecture – called T
 
 Most of the recent generative AI models – also known as Large Language Models (LLMs), since they work with textual inputs and outputs – are indeed based on this architecture. What’s interesting about these models – trained on a huge amount of unlabeled data from diverse sources like books, articles and websites – is that they can be adapted to a wide variety of tasks and generate grammatically correct text with a semblance of creativity. So, not only did they incredibly enhance the capacity of a machine to ‘understand’ an input text, but they enabled their capacity to generate an original response in human language.
 
-![Generative AI History](../media/AI-diagram.png)
+![Generative AI History](../../media/AI-diagram.png)
 
 Now let's look in depth at [Large Language Models](use-llm.md).
