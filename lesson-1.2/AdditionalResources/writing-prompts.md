@@ -10,7 +10,7 @@ Prompt Engineering is the practice of designing and refining inputs to guide AI 
 
 
 
-![A screenshot of the considerations for improving a copilot response that corresponds with the numbered list below.](../media/writing-prompts.png)
+![A screenshot of the considerations for improving a copilot response that corresponds with the numbered list below.](../../media/writing-prompts.png)
 
 Prompt Engineering Involves Constructing prompts to:
 - Maximize relevancy and accuracy of completions

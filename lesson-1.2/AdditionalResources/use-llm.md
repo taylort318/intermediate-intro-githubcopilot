@@ -11,7 +11,7 @@ are open-source and publicly available. Others are offered in proprietary catalo
 ## How Do Large Language Models Work
 Large Language Models receive a text as input and generate a text as output. However, being statistical models, they work much better with numbers than text sequences. That’s why every input to the model is processed by a tokenizer, before being used by the core model. A token is a chunk of text – consisting of a variable number of characters, so the tokenizer's main task is splitting the input into an array of tokens. Then, each token is mapped with a token index, which is the integer encoding of the original text chunk.
 
-![Tokenizer](../media/tokenizer-example.png)
+![Tokenizer](../../media/tokenizer-example.png)
 
 ## Understand different types of LLMs
 

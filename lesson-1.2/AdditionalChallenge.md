@@ -31,7 +31,7 @@ Choose one of these fun text-based games to build with GitHub Copilot:
 
 ## How to run your game
 
-![RunningPython](../../media/RunningPython.png)
+![RunningPython](../media/RunningPython.png)
 
 ### Commit & Push Your Game in the Editor
 1. Open the Source Control panel in VS Code. You should see your changes listed and an empty message box

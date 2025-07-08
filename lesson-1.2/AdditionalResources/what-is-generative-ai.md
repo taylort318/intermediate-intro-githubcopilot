@@ -15,7 +15,7 @@ A generative AI application might respond to such a request like this:
 *Dear Hiring Manager,
 I am writing to express my interest in the position of...*
 
-![Screenshot of an AI-generated cover letter for a person with a bachelor's degree in history.](../media/microsoft-copilot-example-write-letter.png)
+![Screenshot of an AI-generated cover letter for a person with a bachelor's degree in history.](../../media/microsoft-copilot-example-write-letter.png)
 
 ### Image generation
 
@@ -23,7 +23,7 @@ Some generative AI applications can interpret a natural language request and gen
 
 A generative AI application could then return a new image based on the description you provided, like this:
 
-![Screenshot of an AI-generated image of a florist business logo.](../media/florist-example.png)
+![Screenshot of an AI-generated image of a florist business logo.](../../media/florist-example.png)
 
 ### Code generation
 
