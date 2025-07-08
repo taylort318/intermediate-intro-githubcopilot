@@ -69,9 +69,8 @@ Can you help me plan this step by step?"
 **Modern development workflow**
 
 #### **🔧 Getting Started: Setting Up Your Workspace**
-1. **Create your game file**: In VS Code, create a new file called `rock_paper_scissors.py`
-2. **Open GitHub Copilot Chat**: Click the chat icon (💬) in the VS Code sidebar
-3. **Ready to code**: You'll work between the chat and your Python file
+1. **Create your game file**: In VS Code, open the file called `app.py`
+2. **Ready to code**: You'll work between the chat and your Python file
 
 #### **Method 1: Start with the Big Picture**
 **In Copilot Chat, ask:**
@@ -82,7 +81,7 @@ Add comments explaining what each part will do."
 
 **What happens next:**
 - Copilot Chat will show you code in the chat window
-- **Copy the code** from the chat and **paste it into your `rock_paper_scissors.py` file**
+- **Copy the code** from the chat and **paste it into your `app.py` file**
 - Run your file to test it: Press `F5` or use the Run button
 
 #### **Method 2: Build Feature by Feature**
