@@ -117,55 +117,103 @@ Type this comment:
 
 #### Step-by-Step Comments to Type:
 
-1. Start with the header:
+1. **Zero-Shot Example** - Start with the header:
 ```python
 # Rock Paper Scissors Game - Interactive Python Game
 ```
 
-2. Add import statement:
+2. **Zero-Shot Example** - Add import statement:
 ```python
 # Import random module for computer choices
 ```
 *Press Tab to accept the suggestion*
 
-3. Define choices:
+3. **One-Shot Example** - Define choices with format guidance:
 ```python
-# List of valid game choices
+# Create a list called choices with three strings: rock, paper, scissors
 ```
 *Press Tab and see what Copilot suggests*
 
-4. Welcome the player:
+4. **Zero-Shot Example** - Welcome the player:
 ```python
 # Print welcome message
 ```
 *Press Tab after the comment*
 
-5. Get user input:
+5. **One-Shot Example** - Get user input with example:
 ```python
-# Ask user to enter their choice
+# Ask user to enter their choice using input() function
 ```
 
-6. Get computer choice:
+6. **Zero-Shot Example** - Get computer choice:
 ```python
 # Computer picks randomly from choices
 ```
 
-7. Show both choices:
+7. **Few-Shot Example** - Show both choices with multiple examples:
 ```python
-# Print what user and computer chose
+# Print user choice like "You chose: rock"
+# Print computer choice like "Computer chose: paper"
 ```
 
-8. Determine winner with simple logic:
+8. **Prompt Chaining Example** - Determine winner with sequential logic:
 ```python
-# Check if it's a tie
-# Check if user wins
-# Otherwise computer wins
+# Step 1: Check if it's a tie (both chose same)
+# Step 2: Check if user wins (rock beats scissors, etc.)
+# Step 3: Otherwise computer wins
 ```
 
-9. Display the result:
+9. **Zero-Shot Example** - Display the result:
 ```python
 # Print who won the game
 ```
+
+## Understanding Different Prompting Techniques
+
+As you work with GitHub Copilot, you're actually using different AI prompting strategies. Here are examples from our Rock Paper Scissors game:
+
+### Zero-Shot Prompting
+**Definition**: Asking the AI to perform a task without providing examples.
+
+**Example in our game**:
+```python
+# Import random module for computer choices
+```
+*Copilot generates: `import random`*
+
+**Why it works**: The comment clearly states what we need, and Copilot understands from its training.
+
+### One-Shot Prompting  
+**Definition**: Providing one example to guide the AI's response.
+
+**Example in our game**:
+```python
+# Define game choices like this: choices = ["rock", "paper", "scissors"]
+```
+*This gives Copilot a specific format to follow*
+
+### Few-Shot Prompting
+**Definition**: Providing multiple examples to establish a pattern.
+
+**Example in our game**:
+```python
+# Game rules: rock beats scissors, scissors beats paper, paper beats rock
+# Check win conditions using these rules
+```
+*Multiple examples help Copilot understand the complete logic*
+
+### Prompt Chaining
+**Definition**: Building complex functionality through a sequence of related prompts.
+
+**Example in our game**:
+```python
+# Step 1: Get user input
+# Step 2: Generate computer choice  
+# Step 3: Compare choices
+# Step 4: Determine winner
+# Step 5: Display result
+```
+*Each comment builds on the previous one to create the complete game*
 
 ## Tips for Success
 
@@ -178,6 +226,7 @@ Type this comment:
 - **Try Ctrl+Enter** on Windows to see more suggestion options
 - **Experiment** - try your own comment variations
 - **Focus on clear comments** - good comments lead to better code
+- **Use prompting techniques** - try zero-shot for simple tasks, few-shot for complex logic
 
 ## Common Issues and Solutions
 
