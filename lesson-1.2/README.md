@@ -19,6 +19,7 @@
 ## ✔️ Activities[40 minutes]
 
 - [Build a minigame with GitHub Copilot and Python](https://learn.microsoft.com/en-us/training/modules/challenge-project-create-mini-game-with-copilot/?sharingId=F67AE3DA365A6582)
+  - [Help file for working through Rock Paper Scissors](RockPaperScissors.md)
 - [Copilot Chat Getting Started](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/?sharingId=F67AE3DA365A6582&ns-enrollment-type=Collection&ns-enrollment-id=6pggu7t4ymkxy0)
 - [Don't forget to Complete Milestone 2 assessment to earn your Introduction to generative AI concepts Badge](https://learn.microsoft.com/en-us/plans/4m55uxtr48171m?sharingId=F67AE3DA365A6582) - Make sure to login with your personal email not your BAM account.
 
