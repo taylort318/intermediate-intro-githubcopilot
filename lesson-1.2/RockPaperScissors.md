@@ -12,10 +12,23 @@ Welcome to your first game development studio! In this challenge, you'll work as
 
 ## 🚀 Mission: Launch Your First Game Studio with AI
 
+### Learn Module
+1. Follow the [Learn Module]((https://learn.microsoft.com/en-us/training/modules/challenge-project-create-mini-game-with-copilot/?sharingId=F67AE3DA365A6582)) until you get to codespaces
+2. "Visit the GitHub Copilot extension on the Visual Studio Marketplace and find the ID."
+
+
+![Installing Copilot](../media/InstallingCopilot.png)
+
+
+
 ### 🎯 **Phase 1: Meet Your AI Development Team (5 minutes)**
 **Learn to communicate with your AI partner**
 
-1. **Open GitHub Copilot Chat** (💬 icon in VS Code)
+1. **Open GitHub Copilot Chat** (Click copilot icon in the top bar or press `Ctrl+Alt+I` on Windows)
+
+![Starting Copilot Chat](../media/CopilotChat.png)
+
+
 2. **Introduce yourself as a game designer:**
 
 ```
