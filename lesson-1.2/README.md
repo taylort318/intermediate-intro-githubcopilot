@@ -24,7 +24,7 @@
 
 **Let's Get Started** - Fork this repo to get started on activities
 
-## 📑Additional Challengs
+## 📑Additional Challenges
 
 - [Install VS Code Locally](local-install.md)
 - [Additional Challenges](AdditionalChallenge.md)
