@@ -8,7 +8,7 @@
             "module": "streamlit",
             "args": [
                 "run",
-                "${workspaceFolder}/lesson-1.3/tutor-signup/home.py",
+                "${workspaceFolder}/home.py",
                 "--server.runOnSave=true"
             ],
             "console": "integratedTerminal",
