@@ -39,6 +39,15 @@ This repository contains materials for the "Hello World - Launching Into AI and 
 - Students progress from GitHub basics to using AI-assisted programming
 - Students should complete assessments at the end of each lesson to earn badges
 
+## Application Execution Guidelines
+
+**Do not suggest running applications via terminal commands.** Students will use VS Code's built-in Run and Debug functionality to execute their applications.
+
+- Avoid suggesting commands like `streamlit run`, `python app.py`, `npm start`, or similar execution commands
+- Students are expected to use VS Code's Run and Debug features (F5 key or the Run button in VS Code)
+- If students need help with execution, guide them to use VS Code's integrated debugging and running capabilities
+- Focus on code development and debugging rather than manual command-line execution
+
 ## When Assisting Students
 1. Recognize which lesson day the student is currently working on based on the folder they're in
 2. Provide appropriate guidance based on the learning objectives for that specific day

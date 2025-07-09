@@ -26,14 +26,14 @@ In this exercise, you’ll use GitHub Copilot to create a basic webpage! We want
     - **Remember**: This is just a rough sketch! Think of it like drawing a blueprint - it doesn't need to be pretty, just show where things go
     - **Upload your sketch**: Once you have your drawing, save it as an image (like .png or .jpg). Then in your Codespace, right-click on the `lesson-1.3/tutor-signup` folder and select "Upload..." to add your sketch file
 
-3.  Create your UI in Home.html
+3.  Create your UI in home.py
     - Open GitHub Copilot Chat using one of these methods:
       - Press Ctrl+I on your keyboard
       - Look for the Copilot icon in the activity bar
       - Click "View" in the top menu, then find "Chat"
     - Add your sketch to the chat by clicking the paperclip icon and selecting your uploaded image
-    - Write a prompt like: "Based on this sketch, create HTML code for a tutoring signup form with [describe your layout]"
-    - Copy the generated code into your Home.html file
+    - Write a prompt like: "Based on this sketch, create a website for a tutoring signup form with [describe your layout]"
+    - Copy the generated code into your home.py file
     - Continue to refine until you get your initial design working
 
 4.  If you noticed, maybe Copilot created everything in the home.html page.  
