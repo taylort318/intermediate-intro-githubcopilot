@@ -39,6 +39,22 @@ This repository contains materials for the "Hello World - Launching Into AI and 
 - Students progress from GitHub basics to using AI-assisted programming
 - Students should complete assessments at the end of each lesson to earn badges
 
+## Image and Media Guidelines for Streamlit Applications
+
+**For any Streamlit web applications in this workspace, use only the MyImages folder for website content.**
+
+- All images used in Streamlit applications should be stored in the `MyImages/` folder at the root of the workspace
+- When referencing images in Streamlit code, use the path `MyImages/filename.ext`
+- If generating, creating, or suggesting images for website content, always save them to the `MyImages/` folder
+- Do not use other image folders (like `media/`, `images/`, etc.) for Streamlit application content
+- The `media/` folder is reserved for lesson materials and documentation images only
+- When helping students add images to their Streamlit websites, guide them to place images in `MyImages/` and reference them correctly
+
+Example Streamlit image usage:
+```python
+st.image("MyImages/example.png", caption="Example Image")
+```
+
 ## Application Execution Guidelines
 
 **Do not suggest running applications via terminal commands.** Students will use VS Code's built-in Run and Debug functionality to execute their applications.

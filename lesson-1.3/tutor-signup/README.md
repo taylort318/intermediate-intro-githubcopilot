@@ -23,8 +23,9 @@ In this exercise, you’ll use GitHub Copilot to create a basic webpage! We want
     - **Simple Online Tools** (no signup required):
       - [Excalidraw](https://excalidraw.com/) - Free, no login needed, just start drawing!
       - [Draw.io](https://app.diagrams.net/) - Drag and drop shapes to create your layout
+      - [Generate your own images with Microsoft Copilot](https://copilot.microsoft.com)
     - **Remember**: This is just a rough sketch! Think of it like drawing a blueprint - it doesn't need to be pretty, just show where things go
-    - **Upload your sketch**: Once you have your drawing, save it as an image (like .png or .jpg). Then in your Codespace, right-click on the `lesson-1.3/tutor-signup` folder and select "Upload..." to add your sketch file
+    - **Upload your sketch**: Once you have your drawing, save it as an image (like .png or .jpg). Then in your Codespace, right-click on the `MyImages` folder and select "Upload..." to add your sketch file
 
 3.  Create your UI in home.py
     - Open GitHub Copilot Chat using one of these methods:
@@ -36,7 +37,7 @@ In this exercise, you’ll use GitHub Copilot to create a basic webpage! We want
     - Copy the generated code into your home.py file
     - Continue to refine until you get your initial design working
 
-4.  If you noticed, maybe Copilot created everything in the home.html page.  
+4.  If you noticed, maybe Copilot created everything in the home.py page.  
     - How can you make it better by creating some of the button click or other logic in python?
     - Continue to iterate on the design.  What additional functionality could you add to make it better?
     - What other things should you consider?
