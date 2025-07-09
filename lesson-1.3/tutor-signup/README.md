@@ -38,9 +38,40 @@ In this exercise, you’ll use GitHub Copilot to create a basic webpage! We want
     - Continue to refine until you get your initial design working
 
 4.  If you noticed, maybe Copilot created everything in the home.py page.  
-    - How can you make it better by creating some of the button click or other logic in python?
     - Continue to iterate on the design.  What additional functionality could you add to make it better?
     - What other things should you consider?
+
+### Additional Prompt Ideas for adding to your website
+
+1. Let's add some accessibility
+```
+Can you review the website you made and make sure that it's accessible?
+``` 
+
+2. Let's improve the visual design  
+```
+Can you suggest some color schemes or styles to make the website look more appealing for students?
+```
+
+3. Add form validation  
+```
+Can you help me add validation so users must enter a valid email address before submitting the form?
+```
+
+4. Add confirmation message  
+```
+Can you add a message that appears after a student submits the form to confirm their signup was successful?
+```
+
+5. Make the website mobile-friendly  
+```
+Can you update the website so it looks good and works well on both computers and mobile devices?
+```
+
+6. Add tooltips or help text  
+```
+Can you add helpful tooltips or short descriptions next to each form field to guide students on what to enter?
+```
 
 **When you are done, make sure to check-in code to your repository. (Hint - maybe Copilot could help you!)**
 
