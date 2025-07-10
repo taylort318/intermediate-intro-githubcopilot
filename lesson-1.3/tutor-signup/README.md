@@ -10,12 +10,17 @@ In this exercise, you’ll use GitHub Copilot to create a basic webpage! We want
 - Students should be able to enter their preferred days and times for coaching
 
 ### Steps
-1. You’ll first need to decide what your webpage should look like. You’ll want to keep it fairly simple for this first time. Some things to note:
+1. Open the project in GitHub Codespaces  
+  - Go to [https://github.com/BSMP-Coders/intermediate-intro-githubcopilot](https://github.com/BSMP-Coders/intermediate-intro-githubcopilot)
+  - Click the green "Code" button, then select "Open with Codespaces" and create a new Codespace
+  - This will set up your development environment in the cloud, ready for you to start building your website
+
+2. You’ll first need to decide what your webpage should look like. You’ll want to keep it fairly simple for this first time. Some things to note:
     - Do some research on some similar websites for inspiration.
     - If you want to learn how people create wireframes of websites, check out this article by [Skillcrush: Website Wireframe 101](https://skillcrush.com/blog/website-wireframe/)
 
 
-2. Next, you'll need to sketch your webpage. There are different ways to do this, here are some options:
+3. Next, you'll need to sketch your webpage. There are different ways to do this, here are some options:
     - **Pen and Paper**: Draw your webpage on a piece of paper and take a picture with your phone
     - **Phone/Tablet Drawing**: Use a free drawing app like:
       - Notes app (iPhone/iPad) - Just use your finger to draw!
@@ -27,7 +32,7 @@ In this exercise, you’ll use GitHub Copilot to create a basic webpage! We want
     - **Remember**: This is just a rough sketch! Think of it like drawing a blueprint - it doesn't need to be pretty, just show where things go
     - **Upload your sketch**: Once you have your drawing, save it as an image (like .png or .jpg). Then in your Codespace, right-click on the `MyImages` folder and select "Upload..." to add your sketch file
 
-3.  Create your UI in home.py
+4.  Create your UI in home.py
     - Open GitHub Copilot Chat using one of these methods:
       - Press Ctrl+I on your keyboard
       - Look for the Copilot icon in the activity bar
